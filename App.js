@@ -1,3 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log(i);
-}
+const http = require('http');
+
+const server = http.createServer( (req, res) => {
+    res.write('Hello world');
+    res.end();
+})
+
+server.listen(3000)
