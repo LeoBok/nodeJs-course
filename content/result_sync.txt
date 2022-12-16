@@ -1,0 +1,2 @@
+This is the sync result: Hello this is first text file, Hello this is second text file.
+This is the sync result: Hello this is first text file, Hello this is second text file.This is the sync result: Hello this is first text file, Hello this is second text file.

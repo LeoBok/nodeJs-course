@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-crashcourse",
+  "version": "1.0.0",
+  "description": "This is nodeJs courseLeoBok/aalto-interview",
+  "main": "10_fs_sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoBok/nodeJs-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoBok/nodeJs-course/issues"
+  },
+  "homepage": "https://github.com/LeoBok/nodeJs-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
